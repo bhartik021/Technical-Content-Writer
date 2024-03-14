@@ -1,5 +1,5 @@
-﻿
-<a name="_heading=h.gjdgxs"></a>**Bharti  - Technical Writer [ Published Articles]** 
+﻿# Bharti  - Technical Writer [ Published Articles]
+ 
 ## <a name="_heading=h.30j0zll"></a>Doc Synopsis
 The provided document contains a compilation of Bharti Kumari's technical articles as a Technical content writer. The document is organized by topic, with each section featuring a title, brief description, and link to the respective article.  The document also includes a questionnaire section where Bharti shares her experience and positive feedback from colleagues. Overall, it serves as a comprehensive overview of Bharti's technical content writing portfolio, highlighting her knowledge and ability to deliver quality articles.
 ### <a name="_heading=h.3dy6vkm"></a>**Platform: Scaler Topics**
