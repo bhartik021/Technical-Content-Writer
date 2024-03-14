@@ -129,7 +129,7 @@ Bharti is an Electronics and Communication Engineering student at Rajasthan Tech
 |**Slack username\***|bhartik021|**Phone number\***|+91 0000000000|
 |<p>**Postal address\***</p><p></p>|7-D-28, Vigyan Nagar Vistar Yogna, Kota, Rajasthan,, India - 324005|**City, Country\***|Rajasthan, India|
 |**Websites & URLs**||||
-|**GitHub\***|<https://github.com/bhartik021>|**Resume**|<https://drive.google.com/file/d/12N1yhdFDD_6pGwxl3Ylx4ptVf_AguRin/view?usp=sharing>|
+|**GitHub\***|<https://github.com/bhartik021>|**Portfolio**|<https://www.bhartikumari.in/>|
 |**Twitter**|<https://twitter.com/bhartik021>|**LinkedIn**|<https://www.linkedin.com/in/bhartik021/>|
 |**Education**||||
 |**Institution**|Rajasthan  Technical University|**Degree**|Bachelors of Technology|
